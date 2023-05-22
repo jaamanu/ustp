@@ -6,7 +6,7 @@ const Main = () => {
     <div id="main">
       <img
         className="w-full h-screen object-cover object-left scale-x-[1]"
-        src="../../src/assets/Screenshot_2023-05-20_at_14_37_35-transformed.png"
+        src="../../src/assets/bg1.png"
         alt="Background"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-white/30 flex flex-col items-center justify-center">
